@@ -1,64 +1,23 @@
-h1 { font-family:'Impact';
-     text-align: center;
-     font-size: 330%
-     
-} 
-
-h1 {
-  color:  #698593;
+h1 { font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+font-size: 260%;
+color:#fcea3e;
 }
 
-h3 { font-family:'Impact, Charcoal', sans-serif;
-     font-style: italic;
-     color: #dcded7;
-     font-size: 190%; 
-     
-}
-.subtitle1 { 
-  color: #e6cbbf;
-
-}
-.subtitle2 { 
-  color:#a1c1cb;
-
-}
-.subtitle3 { 
-  color:#bcbdc0;
-
-}
-.subtitle4 { 
-  color: #8e95a2;
-
-}
-.subtitle5 { 
-  color: #b3b2aa;
-
-}
-
-img { 
-  margin-left: 2.5%;
-
-}
+.container-galery-restaurant {
+   flex-flow: wrap;
+    border: 7px solid #ffffff;
+    height: 150px;
+    margin: 2px;
     
+}
+
 body {
-  background-color:#273238;
-  
-}
-
-p {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
-  color:#dcded7;
-
-}
-.header-container {
-  background-color:#ffffff;
-  
-
+    background-color:#289688;
 }
 
 
 
 
 
- 
 
